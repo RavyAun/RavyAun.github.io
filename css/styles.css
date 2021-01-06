@@ -66,6 +66,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
   background-color: #fff;
 }
 
@@ -9780,10 +9781,14 @@ button.bg-dark:focus {
 }
 
 .text-primary {
+  
   background: -webkit-linear-gradient(green, blue);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+.navbar{
+  background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);}
 
 a.text-primary:hover, a.text-primary:focus {
   color: #824027 !important;
