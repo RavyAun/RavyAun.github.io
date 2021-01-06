@@ -1,0 +1,10 @@
+.container {
+    text-align: center;
+    margin-top: 20px;
+}
+.carousel-item {
+    text-align: left;
+}
+.carousel-caption {
+    color: white;
+}
